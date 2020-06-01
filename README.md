@@ -1,1 +1,3 @@
-# my_test01-06-2020
+echo Hello, world!
+echo Add other actions to build,
+echo test, and deploy your project.
