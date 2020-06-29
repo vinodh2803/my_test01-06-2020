@@ -1,0 +1,1 @@
+Rebasing – Another kind of merging. This is also a way of combining the work between the different branches. It can be used to make a linear sequence of commits. The major benefit of rebasing is that we get a much cleaner project history
